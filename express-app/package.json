@@ -1,0 +1,13 @@
+{
+  "name": "express-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "chart.js": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1",
+    "tslib": "^2.3.0"
+  },
+  "main": "main.js"
+}
