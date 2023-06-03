@@ -1,7 +1,7 @@
 {
   "name": "express-app",
   "version": "0.0.1",
-  "scritps": {
+  "scripts": {
     "start": "node main.js"
   },
   "dependencies": {
