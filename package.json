@@ -1,6 +1,9 @@
 {
   "name": "express-app",
   "version": "0.0.1",
+  "scritps":{
+  "start":"node main.js",
+  },
   "dependencies": {
     "chart.js": "^4.3.0",
     "cors": "^2.8.5",
