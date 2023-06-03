@@ -234,6 +234,9 @@ app.get('/api', (req, res) => tslib_1.__awaiter(void 0, void 0, void 0, function
 app.get('/fred/search', (req, res) => tslib_1.__awaiter(void 0, void 0, void 0, function* () {
     const params = req.query;
 }));
+app.get('/', (req, res) => {
+    res.send('App is running');
+});
 app.use((req, res, next) => {
     console.log('middleware logging');
     next();
